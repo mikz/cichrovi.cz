@@ -1,0 +1,170 @@
+@font-face {
+    font-family: 'Seconda Round';
+    src: url('/font/SecondaRound-BoldItalic.eot');
+    src: local('Seconda Round Bold Italic'), local('SecondaRound-BoldItalic'),
+        url('/font/SecondaRound-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('/font/SecondaRound-BoldItalic.woff2') format('woff2'),
+        url('/font/SecondaRound-BoldItalic.woff') format('woff'),
+        url('/font/SecondaRound-BoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Seconda Round';
+    src: url('/font/SecondaRound-Bold.eot');
+    src: local('Seconda Round Bold'), local('SecondaRound-Bold'),
+        url('/font/SecondaRound-Bold.eot?#iefix') format('embedded-opentype'),
+        url('/font/SecondaRound-Bold.woff2') format('woff2'),
+        url('/font/SecondaRound-Bold.woff') format('woff'),
+        url('/font/SecondaRound-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Seconda Round';
+    src: url('/font/SecondaRound-MediumItalic.eot');
+    src: local('Seconda Round Medium Italic'), local('SecondaRound-MediumItalic'),
+        url('/font/SecondaRound-MediumItalic.eot?#iefix') format('embedded-opentype'),
+        url('/font/SecondaRound-MediumItalic.woff2') format('woff2'),
+        url('/font/SecondaRound-MediumItalic.woff') format('woff'),
+        url('/font/SecondaRound-MediumItalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Seconda Round';
+    src: url('/font/SecondaRound-Medium.eot');
+    src: local('Seconda Round Medium'), local('SecondaRound-Medium'),
+        url('/font/SecondaRound-Medium.eot?#iefix') format('embedded-opentype'),
+        url('/font/SecondaRound-Medium.woff2') format('woff2'),
+        url('/font/SecondaRound-Medium.woff') format('woff'),
+        url('/font/SecondaRound-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Seconda Round';
+    src: url('/font/SecondaRound-HeavyItalic.eot');
+    src: local('Seconda Round Heavy Italic'), local('SecondaRound-HeavyItalic'),
+        url('/font/SecondaRound-HeavyItalic.eot?#iefix') format('embedded-opentype'),
+        url('/font/SecondaRound-HeavyItalic.woff2') format('woff2'),
+        url('/font/SecondaRound-HeavyItalic.woff') format('woff'),
+        url('/font/SecondaRound-HeavyItalic.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Seconda Round';
+    src: url('/font/SecondaRound-Regular.eot');
+    src: local('Seconda Round Regular'), local('SecondaRound-Regular'),
+        url('/font/SecondaRound-Regular.eot?#iefix') format('embedded-opentype'),
+        url('/font/SecondaRound-Regular.woff2') format('woff2'),
+        url('/font/SecondaRound-Regular.woff') format('woff'),
+        url('/font/SecondaRound-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Seconda Round';
+    src: url('/font/SecondaRound-LightItalic.eot');
+    src: local('Seconda Round Light Italic'), local('SecondaRound-LightItalic'),
+        url('/font/SecondaRound-LightItalic.eot?#iefix') format('embedded-opentype'),
+        url('/font/SecondaRound-LightItalic.woff2') format('woff2'),
+        url('/font/SecondaRound-LightItalic.woff') format('woff'),
+        url('/font/SecondaRound-LightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Seconda Round';
+    src: url('/font/SecondaRound-BlackItalic.eot');
+    src: local('Seconda Round Black Italic'), local('SecondaRound-BlackItalic'),
+        url('/font/SecondaRound-BlackItalic.eot?#iefix') format('embedded-opentype'),
+        url('/font/SecondaRound-BlackItalic.woff2') format('woff2'),
+        url('/font/SecondaRound-BlackItalic.woff') format('woff'),
+        url('/font/SecondaRound-BlackItalic.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Seconda Round';
+    src: url('/font/SecondaRound-Italic.eot');
+    src: local('Seconda Round Italic'), local('SecondaRound-Italic'),
+        url('/font/SecondaRound-Italic.eot?#iefix') format('embedded-opentype'),
+        url('/font/SecondaRound-Italic.woff2') format('woff2'),
+        url('/font/SecondaRound-Italic.woff') format('woff'),
+        url('/font/SecondaRound-Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Seconda Round';
+    src: url('/font/SecondaRound-Black.eot');
+    src: local('Seconda Round Black'), local('SecondaRound-Black'),
+        url('/font/SecondaRound-Black.eot?#iefix') format('embedded-opentype'),
+        url('/font/SecondaRound-Black.woff2') format('woff2'),
+        url('/font/SecondaRound-Black.woff') format('woff'),
+        url('/font/SecondaRound-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+
+@font-face {
+    font-family: 'Seconda Round';
+    src: url('/font/SecondaRound-ThinItalic.eot');
+    src: local('Seconda Round Thin Italic'), local('SecondaRound-ThinItalic'),
+        url('/font/SecondaRound-ThinItalic.eot?#iefix') format('embedded-opentype'),
+        url('/font/SecondaRound-ThinItalic.woff2') format('woff2'),
+        url('/font/SecondaRound-ThinItalic.woff') format('woff'),
+        url('/font/SecondaRound-ThinItalic.ttf') format('truetype');
+    font-weight: 100;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Seconda Round';
+    src: url('/font/SecondaRound-Heavy.eot');
+    src: local('Seconda Round Heavy'), local('SecondaRound-Heavy'),
+        url('/font/SecondaRound-Heavy.eot?#iefix') format('embedded-opentype'),
+        url('/font/SecondaRound-Heavy.woff2') format('woff2'),
+        url('/font/SecondaRound-Heavy.woff') format('woff'),
+        url('/font/SecondaRound-Heavy.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+
+@font-face {
+    font-family: 'Seconda Round';
+    src: url('/font/SecondaRound-Thin.eot');
+    src: local('Seconda Round Thin'), local('SecondaRound-Thin'),
+        url('/font/SecondaRound-Thin.eot?#iefix') format('embedded-opentype'),
+        url('/font/SecondaRound-Thin.woff2') format('woff2'),
+        url('/font/SecondaRound-Thin.woff') format('woff'),
+        url('/font/SecondaRound-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Seconda Round';
+    src: url('/font/SecondaRound-Light.eot');
+    src: local('Seconda Round Light'), local('SecondaRound-Light'),
+        url('/font/SecondaRound-Light.eot?#iefix') format('embedded-opentype'),
+        url('/font/SecondaRound-Light.woff2') format('woff2'),
+        url('/font/SecondaRound-Light.woff') format('woff'),
+        url('/font/SecondaRound-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
