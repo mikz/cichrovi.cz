@@ -1,2 +1,2 @@
-server: adsf
-scss: sass style.scss style.css  --load-path=node_modules --watch
+server: rake
+scss: sass style.scss public/style.css  --load-path=node_modules --watch
